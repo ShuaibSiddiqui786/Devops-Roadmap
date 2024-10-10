@@ -275,3 +275,23 @@ Working in a **DevOps** role involves following **Agile** practices and understa
 - **[Site Reliability Engineering](https://sre.google/books/)**, Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy 
 
     This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.
+
+## DevOps as a Burger (DaaB)
+
+We can even present this roadmap as a burger :).
+
+![DevOps as a Burger](DevOpsBurger.jpg)
+
+## Wrap Up
+
+If you think the roadmap can be improved, please open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+## Contribution
+
+- Open a pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
