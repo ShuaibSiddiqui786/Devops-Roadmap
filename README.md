@@ -5,6 +5,8 @@ This is a step-by-step guide on how to become a DevOps engineer, with links to r
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
+![DevOps roadmap](DevOps%20Roadmap.jpg)
+
 ## Phase 1: Foundations of System Administration & Networking
 
 In this phase, you will learn the fundamentals of Linux, shell scripting, and networking. Key tools include:
