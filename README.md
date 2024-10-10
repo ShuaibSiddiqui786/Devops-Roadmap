@@ -244,7 +244,7 @@ Working in a **DevOps** role involves following **Agile** practices and understa
 - **Container orchestration**: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
 - **Monitoring**: [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [Splunk](https://www.splunk.com/), [Dynatrace](https://www.dynatrace.com/), [Kibana](https://www.elastic.co/kibana/).
 
-![DevOps roadmap](devops%20tools.png)
+![DevOps roadmap](devops%20tools.jpg)
 
 ### Books
 
