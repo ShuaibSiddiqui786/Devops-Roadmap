@@ -1,7 +1,6 @@
 # DevOps Career Roadmap
 
 ## Phase 1: Foundations of System Administration & Networking
-![Phase 1 Roadmap](./images/phase1_foundations.png)
 
 In this phase, you will learn the fundamentals of Linux, shell scripting, and networking. Key tools include:
 - **Linux (Ubuntu, CentOS)**: Master basic commands, file systems, permissions, and more.
