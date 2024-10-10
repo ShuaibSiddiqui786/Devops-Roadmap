@@ -1,4 +1,10 @@
 # DevOps Career Roadmap
+This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
+
+## Give a Star! :star:
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+
 
 ## Phase 1: Foundations of System Administration & Networking
 
