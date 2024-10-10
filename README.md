@@ -1,4 +1,3 @@
-# Devops-Roadmap
 # DevOps Career Roadmap
 
 ## Phase 1: Foundations of System Administration & Networking
