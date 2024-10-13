@@ -95,7 +95,7 @@ Explore advanced topics like chaos engineering and serverless architecture. Key 
   - [Tools](#tools)
   - [Books](#books)
 
-  ## DevOps Engineer Learning Resources (Mostly Free)
+## DevOps Engineer Learning Resources (Mostly Free)
 
 ### 1. GIT
 
